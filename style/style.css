@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(48, 48, 48);
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav a{
+    text-decoration: none;
+    color: lightblue;
+    padding: 20px;
+    font-size: 30px;
+    border: 5px solid rgb(72, 94, 94);
+    margin: 10px;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: rgb(226, 177, 15);
+}
+p{
+    text-align: center;
+    color: rgb(140, 212, 203);
+    font-size: 18px;
+}
+h2{
+    text-align: center;
+    color: aquamarine;
+    margin-top: 100px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+article{
+    width: 300px;
+    color: aquamarine;
+    border: 3px solid rgb(9, 92, 81) ;
+    margin: 15px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: aquamarine;
+}
